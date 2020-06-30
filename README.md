@@ -1,6 +1,5 @@
-<p align="center">
-  # **A Study on Properties of Finite Groups Python Implementation**
-</p>
+# **<center> A Study on Properties of Finite Groups  </center>**
+# **<center> Python Implementation</center>**
 Please follow the instructions given in the google colab project.
 
 # Introduction:
@@ -13,5 +12,4 @@ This project provides a computer program for users which makes them able to proc
 6. Get the composition of two elements
 7. Check if the group is abelian
 8. Generate the centre
-or
 9. Check whether a set of arbitrary integers with the operation of addition mod n form a group or not
