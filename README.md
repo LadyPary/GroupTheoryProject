@@ -1,7 +1,7 @@
 
 # <center> A Study on Properties of Finite Groups Python Implementation </center>
 
-![group theory demo](gifs/readme_GIF.gif)
+![group theory demo](Group-theory.gif)
 
 ## Table of Contents
 
