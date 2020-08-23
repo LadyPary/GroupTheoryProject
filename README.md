@@ -39,6 +39,7 @@ This project provides a computer program for users which makes them able to proc
 
 ### Usage
 First you have to open **[Copy_of_PIFG_for_Github.ipynb](https://github.com/LadyPary/GroupTheoryProject/blob/master/Copy_of_PIFG_for_Github.ipynb)** . Then click on the **Open in Colab** badge. Please note that you need a google account to use colab.
+
 The Instructions on how to use this project are given in each section. You do not need to be familiar with colab.
 
 The python code and all the functions are hidden under the **All the Functions** section. 
@@ -47,5 +48,6 @@ You can double click to show/hide them.
 <!-- CONTACT -->
 ## Contact
 If you have any further questions, please contact me via email.
+
 Parisa Rabbany - Parisa.Rabbany.pr@gmail.com
 
