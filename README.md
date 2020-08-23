@@ -14,7 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project provides a computer program for users which makes them able to process useful information about finite groups. Here users can simply input their desired data according to the instructions and get their needed information. With the use of this framework users will be able to:
+This project provides an interactive environment for users without any coding knowledge to process useful information about finite groups. Here users can simply input their desired data according to the instructions and get their needed information. With the use of this framework users will be able to:
 1. Determine the group order
 2. Generate the elements of the group
 3. Get the group identity
